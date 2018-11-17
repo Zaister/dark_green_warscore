@@ -1,0 +1,49 @@
+
+bitmapfonts = {
+
+	bitmapfont = {
+		name = "vic_18_black"
+		fontname = "vic_18"
+		color = 0xff000000	
+
+		color_override = {
+			G = { 0 75 0 }
+			R = { 124 24 24 }
+			Y = { 0 0 0 }
+		}
+	}
+	bitmapfont = {
+		name = "vic_22_black"
+		fontname = "vic_22"
+		color = 0xff000000	
+
+		color_override = {
+			G = { 0 75 0 }
+			R = { 124 24 24 }
+			Y = { 0 0 0 }
+		}
+	}
+	bitmapfont = {
+		name = "vic_36"
+		fontname = "vic_36"
+		color = 0xffffffff	
+
+		colorcodes = {
+			W = { 255 255 255 }
+			B = { 0 0 255 }
+			G = { 0 159 3 }
+			R = { 255 50 50 }
+			b = { 0 0 0 }
+			g = { 176 176 176 }
+			Y = { 255 189 0 }
+			L = { 195 176 145 }
+		}
+		
+		color_override = {
+			G = { 0 75 0 }
+			R = { 181 61 61 }
+			Y = { 219 203 71 }
+		}
+	}
+
+}
